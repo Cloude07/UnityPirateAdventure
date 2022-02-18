@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 682db120518a40f47bed4fd3ba1bb161
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _armed: {fileID: 9100000, guid: 246bd37f1e3dd6f448b29f2c91b760e7, type: 2}
+  - _disarmed: {fileID: 9100000, guid: e3f9dbb084eeb86469cb370b33d33737, type: 2}
+  - _attackRange: {instanceID: 0}
+  - _footStepParticals: {instanceID: 0}
+  - _jumpPartical: {instanceID: 0}
+  - _fallPartical: {instanceID: 0}
+  - _attackPartical: {instanceID: 0}
+  - _hitParticals: {instanceID: 0}
+  - _coinText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

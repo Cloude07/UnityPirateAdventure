@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SilverCoin
+  - GoldCoin
+  - Enemy
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - WallCheck
+  - Water
+  - UI
+  - blackgraund
+  - Ground
+  - Interactables
+  - Trash
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 1048290845
+    locked: 0
+  - name: Backgraund
+    uniqueID: 2714365117
+    locked: 0
+  - name: Enemy
+    uniqueID: 656804329
+    locked: 0
+  - name: Player
+    uniqueID: 3849411545
+    locked: 0
